@@ -1,0 +1,6 @@
+https://www.chegg.com/homework-help/questions-and-answers/1-create-rest-api-library-management-using-spring-boot-maven-build-tool-3-resources-rest-c-q111974389
+https://www.chegg.com/homework-help/questions-and-answers/code-java-java-rest-api-scenario-implement-create-rest-web-service-running-java-applicatio-q83904070
+
+REFERENCE CODE:
+https://medium.com/javarevisited/building-restful-apis-in-java-a-step-by-step-tutorial-e1b9b2d3e6ab
+https://spring.io/guides/tutorials/rest
